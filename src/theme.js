@@ -119,4 +119,17 @@ export const orangeTheme = {
   headerColor: "#FF6B3577",
 };
 
-export const chosenTheme = blueTheme;
+//export const chosenTheme = blueTheme;
+//export const chosenTheme  = yelGreenTheme
+export const allTheme = [
+  blueTheme,
+  brownTheme,
+  purpleTheme,
+  yelGreenTheme,
+  redTheme,
+  blackTheme,
+  pinkTheme,
+  violetTheme,
+  greenTheme,
+  orangeTheme,
+];

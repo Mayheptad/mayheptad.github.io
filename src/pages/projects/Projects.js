@@ -2,13 +2,17 @@ import React, { Component } from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
-import PublicationCard from "../../components/publicationsCard/PublicationCard";
+//import PublicationCard from "../../components/publicationsCard/PublicationCard";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
-import { greeting, projectsHeader, publicationsHeader } from "../../portfolio.js";
+import {
+  greeting,
+  projectsHeader,
+  publicationsHeader,
+} from "../../portfolio.js";
 import ProjectsData from "../../shared/opensource/projects.json";
-import PublicationData from "../../shared/opensource/publications.json";
+//import PublicationData from "../../shared/opensource/publications.json";
 import "./Projects.css";
 import ProjectsImg from "./ProjectsImg";
 
@@ -81,11 +85,11 @@ class Projects extends Component {
           </Fade>
         </div>
 
-        <div className="repo-cards-div-main">
+        {/* <div className="repo-cards-div-main">
           {PublicationData.data.map((repo) => {
             return <PublicationCard repo={repo} theme={theme} />;
           })}
-        </div>
+        </div> */}
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
