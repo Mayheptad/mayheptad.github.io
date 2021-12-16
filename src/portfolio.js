@@ -23,10 +23,10 @@ const greeting = {
   logo_name: "OshoAbiodun",
   nickname: "Bill Mayheptad Ritchie",
   subTitle:
-    "I am a software Developer, A passionate individual who always thrives to work on end to end products which develop sustainable, scalable social & technical systems to create impact.",
+    "A software Developer, A passionate individual who always thrives to work on end to end products which develop sustainable, scalable social & technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/Mayheptad/smart-vision-ai_frontend",
   githubProfile: "https://github.com/mayheptad",
 };
 
