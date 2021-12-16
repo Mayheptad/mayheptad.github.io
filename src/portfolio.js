@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: " Osho Abiodun",
   logo_name: "OshoAbiodun",
-  nickname: "Bill Mayheptad Ritchie",
+  nickname: "Mayheptad",
   subTitle:
     "A software Developer, A passionate individual who always thrives to work on end to end products which develop sustainable, scalable social & technical systems to create impact.",
   resumeLink:
