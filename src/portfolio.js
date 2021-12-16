@@ -379,51 +379,50 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    // {
-    //   title: "Machine Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "stanford_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-    //   alt_name: "Stanford University",
-    //   color_code: "#8C151599",
-    // },
-    // {
-    //   title: "Deep Learning",
-    //   subtitle: "- Andrew Ng",
-    //   logo_path: "deeplearning_ai_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-    //   alt_name: "deeplearning.ai",
-    //   color_code: "#00000099",
-    // },
-    // {
-    //   title: "ML on GCP",
-    //   subtitle: "- GCP Training",
-    //   logo_path: "google_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-    //   alt_name: "Google",
-    //   color_code: "#0C9D5899",
-    // },
-    // {
-    //   title: "Data Science",
-    //   subtitle: "- Alex Aklson",
-    //   logo_path: "ibm_logo.png",
-    //   certificate_link:
-    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-    //   alt_name: "IBM",
-    //   color_code: "#1F70C199",
-    // },
-    // {
-    //   title: "Big Data",
-    //   subtitle: "- Kim Akers",
-    //   logo_path: "microsoft_logo.png",
-    //   certificate_link:
-    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-    //   alt_name: "Microsoft",
-    //   color_code: "#D83B0199",
-    // },
+    {
+      title: "Full-Stack Web Developer",
+      subtitle: "Dr Angela yu (Developer and Lead Instructor)",
+      logo_path: "stanford_logo.png",
+      certificate_link:
+        "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+      alt_name: "Udemy Online course",
+      color_code: "#8C151599",
+    },
+    {
+      title: "Fully-fledged Flutter developer",
+      subtitle: "Dr Angela yu & Google Flutter team",
+      logo_path: "deeplearning_ai_logo.png",
+      certificate_link:
+        "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
+      alt_name: "Udemy Online course",
+      color_code: "#00000099",
+    },
+    {
+      title: "Full-Stack Web Developer",
+      subtitle: "Andrei Neagoie (Senior software developer)",
+      logo_path: "google_logo.png",
+      certificate_link:
+        "https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/",
+      alt_name: "Udemy Online course",
+      color_code: "#0C9D5899",
+    },
+    {
+      title: "Algorithmic Trading Robot Development",
+      subtitle: "Enrico Lambino (Trader/Programmer)",
+      logo_path: "ibm_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+      alt_name: "IBM",
+      color_code: "#1F70C199",
+    },
+    {
+      title: "Forex Trading",
+      subtitle: "Kirill Eremenko (Trader, Data Scientist & Ai Engineer)",
+      logo_path: "microsoft_logo.png",
+      certificate_link: "https://www.udemy.com/course/forex-trading/",
+      alt_name: "Microsoft",
+      color_code: "#D83B0199",
+    },
     // {
     //   title: "Advanced Data Science",
     //   subtitle: "- Romeo Kienzler",
@@ -656,7 +655,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://onenewspace.com/blog-category/19",
+    link: "https://onenewspace.com/blog-category/16",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
