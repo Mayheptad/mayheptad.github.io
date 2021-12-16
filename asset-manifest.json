@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f979f8f4.chunk.css",
-    "main.js": "/static/js/main.f6a2361f.chunk.js",
-    "main.js.map": "/static/js/main.f6a2361f.chunk.js.map",
+    "main.css": "/static/css/main.b1930abe.chunk.css",
+    "main.js": "/static/js/main.bcc6ba64.chunk.js",
+    "main.js.map": "/static/js/main.bcc6ba64.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f0376194.js",
     "runtime-main.js.map": "/static/js/runtime-main.f0376194.js.map",
-    "static/js/2.124e320f.chunk.js": "/static/js/2.124e320f.chunk.js",
-    "static/js/2.124e320f.chunk.js.map": "/static/js/2.124e320f.chunk.js.map",
+    "static/js/2.f445a9f0.chunk.js": "/static/js/2.f445a9f0.chunk.js",
+    "static/js/2.f445a9f0.chunk.js.map": "/static/js/2.f445a9f0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c281e42871d06abfceb756d1d37dd2b8.js": "/precache-manifest.c281e42871d06abfceb756d1d37dd2b8.js",
+    "precache-manifest.eda557a5ce2aada1f641f78e60743b72.js": "/precache-manifest.eda557a5ce2aada1f641f78e60743b72.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f979f8f4.chunk.css.map": "/static/css/main.f979f8f4.chunk.css.map",
+    "static/css/main.b1930abe.chunk.css.map": "/static/css/main.b1930abe.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.836be27e.png",
@@ -20,7 +20,7 @@
     "static/media/codeInLogo.png": "/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/static/media/contactMail.5f915405.png",
     "static/media/data_science.svg": "/static/media/data_science.ebf35d7f.svg",
-    "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
+    "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.47757c66.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "/static/media/education.3bab7a9d.svg",
@@ -32,7 +32,7 @@
     "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
-    "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
+    "static/media/ibm_logo.png": "/static/media/ibm_logo.19093222.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.5b4a6449.svg",
@@ -43,15 +43,15 @@
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
-    "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
+    "static/media/stanford_logo.png": "/static/media/stanford_logo.47757c66.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.d6363089.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f0376194.js",
-    "static/js/2.124e320f.chunk.js",
-    "static/css/main.f979f8f4.chunk.css",
-    "static/js/main.f6a2361f.chunk.js"
+    "static/js/2.f445a9f0.chunk.js",
+    "static/css/main.b1930abe.chunk.css",
+    "static/js/main.bcc6ba64.chunk.js"
   ]
 }

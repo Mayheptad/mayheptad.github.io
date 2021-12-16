@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cd129bc5dc26382c2905de47d66ea58",
+    "revision": "bfb0777a50a440b7d10a662eb50fef93",
     "url": "/index.html"
   },
   {
-    "revision": "2dae6470e7dcf9e9187c",
-    "url": "/static/css/main.f979f8f4.chunk.css"
+    "revision": "2fa69e6f39f96c962f64",
+    "url": "/static/css/main.b1930abe.chunk.css"
   },
   {
-    "revision": "5a35ca5263cdd3fca811",
-    "url": "/static/js/2.124e320f.chunk.js"
+    "revision": "b17f94f73a75cef42940",
+    "url": "/static/js/2.f445a9f0.chunk.js"
   },
   {
-    "revision": "2dae6470e7dcf9e9187c",
-    "url": "/static/js/main.f6a2361f.chunk.js"
+    "revision": "2fa69e6f39f96c962f64",
+    "url": "/static/js/main.bcc6ba64.chunk.js"
   },
   {
     "revision": "4ab01540391aac123f0e",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/data_science.ebf35d7f.svg"
   },
   {
-    "revision": "75a7107b7739a46950f66de29779eb52",
-    "url": "/static/media/deeplearning_ai_logo.75a7107b.png"
+    "revision": "47757c6688decf76a55a08df863d17b5",
+    "url": "/static/media/deeplearning_ai_logo.47757c66.png"
   },
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.a6addc3f.svg"
   },
   {
-    "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
-    "url": "/static/media/ibm_logo.d3fccbe1.png"
+    "revision": "19093222ed6d031ac9fc5037141f66a0",
+    "url": "/static/media/ibm_logo.19093222.png"
   },
   {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
@@ -232,8 +232,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.71408db7.png"
   },
   {
-    "revision": "2c497738be3831492aeb6bdc43f19154",
-    "url": "/static/media/stanford_logo.2c497738.png"
+    "revision": "47757c6688decf76a55a08df863d17b5",
+    "url": "/static/media/stanford_logo.47757c66.png"
   },
   {
     "revision": "6ac91b161c2c9934a44f72d75d18142d",
