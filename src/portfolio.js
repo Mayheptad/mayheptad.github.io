@@ -285,7 +285,7 @@ const skills = {
 
     {
       title: "Algorithmic Trading Automation (Mql4 programming)",
-      fileName: "FullStackImg",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Experience in building robot for online algorithmic trading based on a set of market signals that helps determine whether to buy or sell a currency pair at a given point in time.",
         "⚡ Building of bot to trade any currency pair on the meta trader 4 platforn using complex mathematical algorithms to monitor the markets & follow price action.",
