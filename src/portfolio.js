@@ -411,7 +411,7 @@ const certifications = {
       subtitle: "Enrico Lambino (Trader/Programmer)",
       logo_path: "ibm_logo.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://www.udemy.com/course/algorithmic-trading-bootcamp-metatrader4/",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
