@@ -13,7 +13,7 @@ export default function Footer(props) {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https:onenewspace.com/mayheptad"
+            href="https://onenewspace.com/mayheptad"
             style={{ textDecoration: "none" }}
           >
             {greeting.title}{" "}
