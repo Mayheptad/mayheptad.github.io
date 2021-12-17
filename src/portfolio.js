@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A software Developer, A passionate individual who always thrives to work on end to end products which develop sustainable, scalable social & technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1qeaOC9IlT9JenJmNnVcrrn5-LcGPKqGG/view?usp=sharing",
+    "https://drive.google.com/file/d/1Vb79qKH2GYxKCvExAzrm6umXAWKRCxRB/view?usp=sharing",
   portfolio_repository: "https://github.com/Mayheptad/smart-vision-ai_frontend",
   githubProfile: "https://github.com/mayheptad",
 };
