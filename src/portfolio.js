@@ -494,7 +494,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked on few projects for startups as frontend/backend web Developer, Designer and Software Architect. And have also worked with some friends to build Web scrapping/Automation bot, as well as building Many algoritmic trading software for the popular Metatrader 4 platform. I love organising events and that is why I am also planning to start getting involved with major opensource, communities as a representative.",
+    "I have worked on few projects for startups as frontend/backend web Developer, Designer and Software Architect. And have also worked with some friends to build Web scrapping/Automation bot, as well as building Many algoritmic trading software for the popular Metatrader 4 platform. I love organising events & lately, am getting involved with major opensource, communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     {
