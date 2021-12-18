@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A software Developer, A passionate individual who always thrives to work on end to end products which develop sustainable, scalable social & technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1Vb79qKH2GYxKCvExAzrm6umXAWKRCxRB/view?usp=sharing",
+    "https://drive.google.com/file/d/1P7EYl9OrftppJspf4NfhLinH1teTD9o9/view?usp=sharing",
   portfolio_repository: "https://github.com/Mayheptad/smart-vision-ai_frontend",
   githubProfile: "https://github.com/mayheptad",
 };
