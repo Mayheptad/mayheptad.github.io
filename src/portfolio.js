@@ -246,9 +246,9 @@ const skills = {
       title: "Web Automation - Data Scraping/Extraction",
       fileName: "WebAutomation/DataExtraction",
       skills: [
-        "⚡ Builiding robots as a web applications software to perform pre-defined actions, tasks, & processes on a web browser or web application.",
-        "⚡ Experience building extractors to Extract Data instantly from any website in minutes",
-        "⚡ Design appliactions that can Basically perform anything human can do on a webpage, and even do it faster",
+        "⚡ Builiding web applications software as robots to perform pre-defined actions, tasks, & processes on the web.",
+        "⚡ Experience in building data extractors programs to Extract Data instantly from any website in minutes",
+        "⚡ Design applications that can Basically perform anything human can do on a webpage, and even do it faster",
         "⚡ Ability to automate common web actions—like filling out forms, clicking on buttons, downloading files, loging-in to accounts, etc.",
       ],
       softwareSkills: [
@@ -649,7 +649,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours.",
+      "I am available on few social media platform. You can message me, I will reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
