@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A software Developer, A passionate individual who always thrives to work on end to end products which develop sustainable, scalable social & technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/19LIOXewQr5O9Spq0aoVz_4sKqLFr430R/view?usp=sharing",
+    "https://drive.google.com/file/d/1YbRMxYld6Gh878Qp72kqvEIWt_T7mfEO/view?usp=sharing",
   portfolio_repository: "https://github.com/Mayheptad/smart-vision-ai_frontend",
   githubProfile: "https://github.com/mayheptad",
 };
@@ -90,7 +90,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive fast website front end using Html, css, javscript, Reactjs, Redux",
+        "⚡ Building resposive fast website front end using Html, Css, JavaScript, Reactjs, Redux",
         "⚡ Developing fast High performance mobile applications using Dart & Flutter",
         "⚡ Creating Web application backend in Node & Express",
         "⚡ Styling front end with Boostrap, tachyons, tailwind",
